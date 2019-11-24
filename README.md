@@ -4,13 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project help you to create Navigation Drawer UI for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screen Shot - iPhone Xʀ - 2019-11-24 at 13 18 34](https://user-images.githubusercontent.com/30828060/69491584-39d3a180-0ebd-11ea-8bc2-3359f056645f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
